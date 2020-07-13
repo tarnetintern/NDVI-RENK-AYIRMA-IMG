@@ -1,1 +1,1 @@
-# NDVI-RES-M
+# NDVI-RESİM

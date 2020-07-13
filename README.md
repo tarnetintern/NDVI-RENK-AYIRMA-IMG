@@ -5,7 +5,13 @@ linki ile örenk tif dosyasını indirebilirsiniz.
 Program şu şekilde işlemektedir
 
 Örnek bir uygu görüntümüz vardır
+
+
+
 Bu görüntümüzü NDVI ile inceleyip analiz yapmamız gerekiyor bu tabi sonra
+
+
+
 Aldığımız görüntüyü rasterio ile renk bantlarına ayırıyoruz
 Bizim elimizde olan NDVI denklemi ile bu görüntüde bu denklemi kullanıyoruz
 Minimum ve maksimum değerleri buluyoruz

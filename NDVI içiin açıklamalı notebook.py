@@ -27,7 +27,7 @@ np.seterr(divide='ignore', invalid='ignore')
 
 # Klasik NDVI denklemi ile hesaplama
 
-#burasını değiştirdim yanlış olmuş
+#burasını değiştirdim yanlış olmuş.
 #ndvi = (band_nir.astype(float) - band_red.astype(float)) / (band_nir + band_red)
 #yeni denklem
 ndvi = (band_nir.astype(float) - band_red) / (band_nir.astype(float) + band_red)

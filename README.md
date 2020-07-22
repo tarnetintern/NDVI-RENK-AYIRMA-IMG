@@ -31,3 +31,6 @@ NDVI bilindiği üzere 1 ve -1 arasındaki değerlerde sınıflandırılır. Biz
 
 
 NDVI görüntüsünü ve histogramı görebiliriz
+https://www.tarnet.com.tr/
+https://batuhanokmen.com/
+
